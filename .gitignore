@@ -1,0 +1,7 @@
+.DS_Store
+.swp
+.build
+.idea/
+backup/*.gz
+backup/*.sql
+log/*.log
